@@ -1,0 +1,23 @@
+como criar PASTA E syncar com o git
+
+cria no GitHub o repsoitorio copia a URL 
+
+depois no VS code 
+abre CRTL + J
+depois na linha vpce digita 	git clone e inseri a url copiada do GitHub CRTL V
+depois enter
+depois
+
+git status
+git add*
+git commit -m " escreve o que fez"
+git push
+
+
+criar arquivo
+↓
+git add arquivo
+↓
+git commit -m "mensagem"
+↓
+git push
